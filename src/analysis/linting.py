@@ -7,7 +7,7 @@ import shutil
 
 class Linting:
     """
-    Runs static analysis using pylint, flake8, and bandit to check code quality and security.
+    Runs static code analysis using pylint, flake8, and bandit.
     """
 
     @staticmethod

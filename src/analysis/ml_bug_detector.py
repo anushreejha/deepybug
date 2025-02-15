@@ -3,7 +3,7 @@ import torch
 
 class MLBugDetector:
     """
-    Uses a pre-trained CodeBERT model to detect potential bugs in Python code.
+    Detects bugs in Python code using a pre-trained CodeBERT model.
     """
 
     def __init__(self):

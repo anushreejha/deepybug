@@ -3,7 +3,7 @@ import shutil
 
 class SecurityChecker:
     """
-    Runs security checks using Bandit (for code) and Safety (for dependencies).
+    Performs security checks on code using Bandit and Safety tools.
     """
 
     @staticmethod

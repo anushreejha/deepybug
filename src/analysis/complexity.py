@@ -3,7 +3,7 @@ import shutil
 
 class ComplexityAnalyzer:
     """
-    Uses Radon to analyze the complexity of a Python file.
+    Analyzes the complexity of a Python file using Radon.
     """
 
     @staticmethod
